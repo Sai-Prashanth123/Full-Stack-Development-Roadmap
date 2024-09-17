@@ -1,4 +1,6 @@
 # Full-Stack Development Tech Stack
+Here’s a simplified, fresher-friendly version of the tech stack breakdown. This note introduces technologies with a focus on what's essential and beginner-friendly in web development
+Refer This Link: https://sai-prashanth123.github.io/Full-Stack-Development-Roadmap/
 
 ## 1. Front-End (Client-Side)
 ### Languages:
